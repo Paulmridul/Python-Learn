@@ -13,7 +13,7 @@ class B:
     def method2(self):
         print('This is Class B, Method2')
 
-# Python Does Support Multiple Inheritance
+# Python Does Support Multiple Inheritance, its support left to right
 
 
 class C(A, B):
